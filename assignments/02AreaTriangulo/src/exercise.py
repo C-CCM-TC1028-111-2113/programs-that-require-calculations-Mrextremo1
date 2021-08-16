@@ -1,7 +1,7 @@
 def main():
     #escribe tu código abajo de esta línea
-    base = int(input)
-    altura = int(input)
+    base = float(input)
+    altura = float(input)
 
     area = (base*altura)/2
 
