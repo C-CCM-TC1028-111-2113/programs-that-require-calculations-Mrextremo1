@@ -1,6 +1,11 @@
 def main():
     #escribe tu código abajo de esta línea
-    pass
+    base = int(input)
+    altura = int(input)
+
+    area = (base*altura)/2
+
+    print(area)
 
 
 
