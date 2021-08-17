@@ -8,9 +8,8 @@ def main():
     multi = n1*n2
 
     print("Suma:",suma)
-    print("Resta",resta)
-    print("Multiplicación",multi)
-
+    print("Resta:",resta)
+    print("Multiplicación:",multi)
 
 
 if __name__ == '__main__':
