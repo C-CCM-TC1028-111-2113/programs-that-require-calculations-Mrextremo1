@@ -5,7 +5,7 @@ def main():
 
     area = (base*altura)/2
     
-    print("El área es: ", area)
+    print("El área es:",area)
 
 
 
