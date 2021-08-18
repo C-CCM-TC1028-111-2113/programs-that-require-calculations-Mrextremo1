@@ -6,7 +6,7 @@ def main():
 
     ab = (pi-pf)/mes
 
-    print("Lo que debes bajar por mes es: 1.25")
+    print("Lo que debes bajar por mes es:",ab)
     
 
 
